@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentfncrypt",
+        "uuid": 1183344,
+        "checksum": "ddu8jl"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
